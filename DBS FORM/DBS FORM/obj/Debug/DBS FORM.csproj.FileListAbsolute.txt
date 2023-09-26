@@ -1,0 +1,10 @@
+C:\Users\MA LAPTOP\source\repos\DBS FORM\DBS FORM\bin\Debug\DBS FORM.exe.config
+C:\Users\MA LAPTOP\source\repos\DBS FORM\DBS FORM\bin\Debug\DBS FORM.exe
+C:\Users\MA LAPTOP\source\repos\DBS FORM\DBS FORM\bin\Debug\DBS FORM.pdb
+C:\Users\MA LAPTOP\source\repos\DBS FORM\DBS FORM\obj\Debug\DBS FORM.csproj.AssemblyReference.cache
+C:\Users\MA LAPTOP\source\repos\DBS FORM\DBS FORM\obj\Debug\DBS_FORM.Form1.resources
+C:\Users\MA LAPTOP\source\repos\DBS FORM\DBS FORM\obj\Debug\DBS_FORM.Properties.Resources.resources
+C:\Users\MA LAPTOP\source\repos\DBS FORM\DBS FORM\obj\Debug\DBS FORM.csproj.GenerateResource.cache
+C:\Users\MA LAPTOP\source\repos\DBS FORM\DBS FORM\obj\Debug\DBS FORM.csproj.CoreCompileInputs.cache
+C:\Users\MA LAPTOP\source\repos\DBS FORM\DBS FORM\obj\Debug\DBS FORM.exe
+C:\Users\MA LAPTOP\source\repos\DBS FORM\DBS FORM\obj\Debug\DBS FORM.pdb
