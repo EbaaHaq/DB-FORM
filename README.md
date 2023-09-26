@@ -1,2 +1,1 @@
-# DB-FORM
-This C# Windows Forms app manages vehicle rentals in a SQL database. It handles connections, insertions, counts, and displays data.
+It's a form-based application that connects to a SQL Server database named "Northwind" on SQL server. The form offers a simple interface for basic database operations, including checking the connection, inserting records securely using parameterized queries, counting records, and displaying records in a DataGridView. The code demonstrates fundamental database interaction and user interface design principles, making it a valuable learning tool for students studying C# and database management.
